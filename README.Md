@@ -3,7 +3,7 @@
 ## Table of Content
 
 - [ Introduction](#Introduction)
-- [2. Gas in Ethereum: Understanding the Basics](#Gas-in-Ethereum:-Understanding-the-Basics)
+- [2. Gas in Ethereum: Understanding the Basics](#Gas-in-Ethereum-Understanding-the-Basics)
 - [3. The Importance of Gas Optimization](#The-Importance-of-Gas-Optimization)
 - [4. Techniques for Gas Optimization](#Techniques-for-Gas-Optimization)
 
